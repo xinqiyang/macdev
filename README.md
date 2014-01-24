@@ -4,19 +4,20 @@
 
 本文假设您是一个开发工程师，并且是一个Mac的新手。这些步骤在OS X Mavericks下测试通过。
 
-欢迎大家一起改进这个项目，请`Fork`、`Star`或在[Issues](https://github.com/pubyun/macdev/issues)中提交 :)
+欢迎大家一起改进这个项目，请`Fork`、`Star`或在[Issues](https://github.com/xinqiyang/macdev/issues)中提交 :)
 
-您也可以关注我的[新浪微博](http://weibo.com/pubyun)，以获取最新消息。
+您也可以关注我的[新浪微博](http://weibo.com/xinqiyang)，以获取最新消息。
 
 ## 目录
 
-* [OS X的安装](https://github.com/pubyun/macdev/blob/master/install.md)
-* [OS X的备份和恢复](https://github.com/pubyun/macdev/blob/master/recovery.md)
-* [基本设置](https://github.com/pubyun/macdev/blob/master/basic.md)
-* [python开发环境的设置](https://github.com/pubyun/macdev/blob/master/python.md)
+* [OS X的安装](https://github.com/xinqiyang/macdev/blob/master/install.md)
+* [OS X的备份和恢复](https://github.com/xinqiyang/macdev/blob/master/recovery.md)
+* [基本设置](https://github.com/xinqiyang/macdev/blob/master/basic.md)
+* [python开发环境的设置](https://github.com/xinqiyang/macdev/blob/master/python.md)
+* [php开发环境的设置](https://github.com/xinqiyang/macdev/blob/master/php.md)
 * ruby开发环境的设置 - 整理中...
 * java开发环境的设置 - 整理中...
-* [常用软件](https://github.com/pubyun/macdev/blob/master/apps.md)
+* [常用软件](https://github.com/xinqiyang/macdev/blob/master/apps.md)
 * 配置文件 - 整理中 ...
 * 常用快捷键 - 整理中 ...
-* [参考文档](https://github.com/pubyun/macdev/blob/master/refs.md)
+* [参考文档](https://github.com/xinqiyang/macdev/blob/master/refs.md)
